@@ -21,7 +21,12 @@ section div aside {
     float: left;
 }
 
+#murillo{
+    width: 120px;
+    height: auto;
+}
+
 section div aside img{
     width: 120px;
-    height: 120px;
+    height: 120px;    
 }
